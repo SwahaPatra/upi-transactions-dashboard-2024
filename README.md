@@ -3,11 +3,11 @@ This project is an interactive Excel dashboard I built using a dummy UPI transac
 The idea was to treat it like a real-world digital payments problem: clean messy raw data, explore trends, and turn it into something that can give business insights at a glance.
 ________________________________________
  What I Did:-  
-•	Cleaned and prepared a raw dataset of 2.5 lakh transactions
-•	Fixed issues like extra spaces, inconsistent text, and converted amounts into numbers
-•	Used PivotTables and PivotCharts to dig into trends
-•	Added slicers for quick filtering (Month, Bank, Device Type)
-•	Finally, brought everything together in a single-page dashboard
+•	Cleaned and prepared a raw dataset of 2.5 lakh transactions 
+•	Fixed issues like extra spaces, inconsistent text, and converted amounts into numbers 
+•	Used PivotTables and PivotCharts to dig into trends 
+•	Added slicers for quick filtering (Month, Bank, Device Type) 
+•	Finally, brought everything together in a single-page dashboard 
 ________________________________________
  Key Takeaways:-  
 •	UPI Success Rate: 95% (failures 5%)
